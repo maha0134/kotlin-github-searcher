@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Akshay_Final_Project</string>
+    <string name="app_name">GitHub_Searcher</string>
 
     <string name="message_title">Network Error</string>
     <string name="message_text">No internet connection</string>
